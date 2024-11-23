@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "type": "mysql",
+        "container_name": "mysql_container",
+        "db_name": "employee_db",
+        "username": "root",
+        "password": "password123"
+    },
+    {
+        "id": 2,
+        "type": "mysql",
+        "container_name": "mysql_container",
+        "db_name": "employee_db",
+        "username": "root",
+        "password": "password123"
+    }
+]
